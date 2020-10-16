@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silo", "Silo\Silo.csproj", "{AD60DE79-ADA3-4416-8860-34CE3A0FCAB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{3123B567-23C7-408F-87D8-3EDE8DB24804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainInterfaces", "GrainInterfaces\GrainInterfaces.csproj", "{A15AB400-F89A-4C3E-9A66-343EDA39F4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "Grains\Grains.csproj", "{EF0B1AE0-FA51-4C8B-82E8-DB98B155E0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD60DE79-ADA3-4416-8860-34CE3A0FCAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD60DE79-ADA3-4416-8860-34CE3A0FCAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD60DE79-ADA3-4416-8860-34CE3A0FCAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD60DE79-ADA3-4416-8860-34CE3A0FCAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3123B567-23C7-408F-87D8-3EDE8DB24804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3123B567-23C7-408F-87D8-3EDE8DB24804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3123B567-23C7-408F-87D8-3EDE8DB24804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3123B567-23C7-408F-87D8-3EDE8DB24804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15AB400-F89A-4C3E-9A66-343EDA39F4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15AB400-F89A-4C3E-9A66-343EDA39F4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15AB400-F89A-4C3E-9A66-343EDA39F4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15AB400-F89A-4C3E-9A66-343EDA39F4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0B1AE0-FA51-4C8B-82E8-DB98B155E0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0B1AE0-FA51-4C8B-82E8-DB98B155E0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0B1AE0-FA51-4C8B-82E8-DB98B155E0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0B1AE0-FA51-4C8B-82E8-DB98B155E0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
